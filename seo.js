@@ -1,7 +1,7 @@
 Meteor.startup(function() {
   if(Meteor.isClient) {
     SEO.config({
-      title: 'Project Title',
+      title: 'Blog Demo',
       meta: {
         'description': 'A project by Differential.io'
       },
