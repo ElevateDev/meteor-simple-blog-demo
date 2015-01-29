@@ -24,8 +24,9 @@ dburles:factory@0.3.7
 ddp@1.0.14
 deps@1.0.6
 ejson@1.0.5
-elevatedevdesign:simple-blog@0.0.6
-elevatedevdesign:simple-blog-seo@0.0.2
+elevatedevdesign:simple-blog@0.0.7
+elevatedevdesign:simple-blog-disqus@0.0.1
+elevatedevdesign:simple-blog-seo@0.0.3
 elevatedevdesign:template-subscriptions@0.0.1
 email@1.0.5
 fastclick@1.0.2

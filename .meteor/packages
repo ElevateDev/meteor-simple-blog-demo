@@ -25,6 +25,7 @@ fuatsengul:iron-router-auth
 dburles:factory
 anti:fake
 cunneen:mailgun
-elevatedevdesign:simple-blog
+elevatedevdesign:simple-blog@0.0.7
 joshowens:shareit
 elevatedevdesign:simple-blog-seo
+elevatedevdesign:simple-blog-disqus
